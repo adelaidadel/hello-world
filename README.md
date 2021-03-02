@@ -1,2 +1,5 @@
 # hello-world
-Repositorio para aprender a usar GitHub
+Repositorio para aprender cómo usar GitHub
+
+Fecha: 2/3/21
+Autora: Adelaida Delgado
